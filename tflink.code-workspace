@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "console"
+		},
+		{
+			"path": "core"
+		},
+		{
+			"path": "dot_env"
+		},
+		{
+			"path": "example-core"
+		},
+		{
+			"path": "http"
+		},
+		{
+			"path": "orm"
+		}
+	]
+}

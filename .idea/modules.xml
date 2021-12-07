@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/packages/example-core/melos_teflink_acore.iml" filepath="$PROJECT_DIR$/packages/example-core/melos_teflink_acore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/console/melos_teflink_console.iml" filepath="$PROJECT_DIR$/packages/console/melos_teflink_console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/core/melos_teflink_core.iml" filepath="$PROJECT_DIR$/packages/core/melos_teflink_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/dot_env/melos_teflink_dot_env.iml" filepath="$PROJECT_DIR$/packages/dot_env/melos_teflink_dot_env.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/http/melos_teflink_http.iml" filepath="$PROJECT_DIR$/packages/http/melos_teflink_http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/orm/melos_teflink_orm.iml" filepath="$PROJECT_DIR$/packages/orm/melos_teflink_orm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_my_project.iml" filepath="$PROJECT_DIR$/melos_my_project.iml" />
+    </modules>
+  </component>
+</project>
